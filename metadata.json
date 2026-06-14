@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Grammar Practice",
+  "description": "An interactive practice tool for Spanish prepositions and Ser vs Estar verbs with detailed explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
